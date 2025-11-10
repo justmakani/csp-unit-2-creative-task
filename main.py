@@ -123,5 +123,5 @@ Rect(180,15,20,20,fill='lightGray')
 Label('Paper',210,25,fill='black',size=12)
 Rect(270,15,20,20,fill='lightBlue')
 Label('Scissors',300,25,fill='black',size=12)
-
+#
 cmu_graphics.run()
